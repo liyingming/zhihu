@@ -89,6 +89,13 @@ input{
     margin-top: 30px;
 }
 
+button{
+    margin: 20px 0 0 120px;
+    width: 220px;
+    height: 35px;
+    font-size: 15px;
+}
+
 #center{
     background:#deb887;
     width: 1903px;
