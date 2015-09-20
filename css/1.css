@@ -1,0 +1,106 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background: #F1F5F8;
+    width: 1903px;
+    height: 921px;
+
+}
+
+.clear{
+    clear: both;
+}
+
+#top{
+    background: #0078D8;
+    width: 1903px;
+    height: 478px;
+}
+
+#top1{
+
+    width: 740px;
+    height: 360px;
+    margin: auto;
+    position: relative;
+}
+
+#top1 .left{
+    background: url("logo.5436ed83.png");
+    width: 345px;
+    height: 124px;
+    margin-top: -62px;
+    position: absolute;
+    top: 50%;
+    float: left;
+
+}
+#top1 .right{
+    background: #ffff00;
+    width: 340px;
+    height: 478px;
+    float: right;
+}
+
+.right .h1{
+
+    margin: 40px 0 0 120px;
+    float: left;
+}
+
+.right .h2{
+
+    margin: 40px 0 0 0;
+    float: right;
+}
+
+#form{
+    text-align: center;
+    font-size: 15px;
+}
+
+input{
+    margin-top: 20px;
+    width: 200px;
+    height: 17px;
+    padding: 8px 10px;
+    background: #e7f1f8;
+    font-size: 15px;
+    line-height: 17px;
+    color: #555;
+    border: 1px solid #1672b9;
+    border-radius: 5px;
+    box-shadow: inset 0 1px 2px rgba(15,82,135,.25),0 1px 0 rgba(255,255,255,.15);
+    float: right;
+}
+
+
+
+#img img{
+    margin: 20px  0 0  120px;
+    float: left;
+    width: 80px;
+    height: 40px;
+}
+#img span{
+    float: right;
+    margin-top: 30px;
+}
+
+#center{
+    background:#deb887;
+    width: 1903px;
+    height: 360px;
+    margin: 50px 0 ;
+
+}
+
+#bottom{
+    background: #696969;
+    width: 1903px;
+    height: 64px;
+    padding:0 0 60px;
+}
+
